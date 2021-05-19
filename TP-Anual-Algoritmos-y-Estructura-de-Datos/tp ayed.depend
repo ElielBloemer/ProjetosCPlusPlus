@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1601521244 source:c:\users\usuario\desktop\materia primeiro ano\ayed\proyectos c++\tp final c++\redes\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<conio.h>
+	<direct.h>
+	<stdio.h>
+

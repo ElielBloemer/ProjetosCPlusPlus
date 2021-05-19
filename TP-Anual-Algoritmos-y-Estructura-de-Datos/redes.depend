@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1601521243 source:c:\users\ruth\desktop\ayed\redes\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<conio.h>
+	<direct.h>
+	<stdio.h>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1621391720 source:c:\users\usuario\desktop\ayed\ejercicio ayed damian\listas,pilas y colas\practica valores lista agregar valores\conversor de numeros(binario,octal,hexa)\main.cpp
+	<iostream>
+	"TADconversiones.hpp"
+
+1621394181 c:\users\usuario\desktop\ayed\ejercicio ayed damian\listas,pilas y colas\practica valores lista agregar valores\conversor de numeros(binario,octal,hexa)\tadconversiones.hpp
+	<iostream>
+	<conio.h>
+
+1621391720 source:c:\users\usuario\desktop\materia primeiro ano\ayed\proyectos c++\projeto conversor de numeros c++\main.cpp
+	<iostream>
+	"TADconversiones.hpp"
+
+1621394181 c:\users\usuario\desktop\materia primeiro ano\ayed\proyectos c++\projeto conversor de numeros c++\tadconversiones.hpp
+	<iostream>
+	<conio.h>
+
+1621391720 source:c:\users\usuario\desktop\materia primeiro ano\ayed\proyectos c++\projetos-em-c-plus-plus\projeto-conversor-de-numeros\main.cpp
+	<iostream>
+	"TADconversiones.hpp"
+
+1621396410 c:\users\usuario\desktop\materia primeiro ano\ayed\proyectos c++\projetos-em-c-plus-plus\projeto-conversor-de-numeros\tadconversiones.hpp
+	<iostream>
+	<conio.h>
+
